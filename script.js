@@ -1,4 +1,7 @@
-/*Snake Game JavaScript part */
+/*Snake Game JavaScript part 
+
+Here is the core of the game using object programmation
+*/
 
 window.onload = function (){
   var canvasWidth = 900;
