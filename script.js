@@ -1,6 +1,8 @@
 /*Snake Game JavaScript part 
 
 Here is the core of the game using object programmation
+
+Test of SNAKE OK
 */
 
 window.onload = function (){
